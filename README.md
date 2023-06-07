@@ -10,7 +10,11 @@ Currency-Converter is a versatile C++ program that enables users to convert curr
     - WINDOWS: 
     - x86 (32 bits): (Pending)
     - x64 (64 bits):
+           
+           https://github.com/wlbdo/Currency-Converter/blob/main/Currency-Converter-x64.exe
     - Without libraries:
+        
+          https://github.com/wlbdo/Currency-Converter/blob/main/Currency-Converter.exe
     - LINUX: (Pending)
     - MACOS: (Pending)
 
